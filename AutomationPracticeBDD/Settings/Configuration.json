@@ -1,0 +1,7 @@
+{
+  "TestConfiguration": {
+    "Environment": "http://automationpractice.com/index.php",
+    "Target": "Chrome",
+    "Platform": "Desktop"
+  }
+}
